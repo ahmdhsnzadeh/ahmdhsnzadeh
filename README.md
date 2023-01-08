@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Hasanzadeh</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<h4 d-flex align="center" w-100>![personal](https://user-images.githubusercontent.com/109382352/211187842-65bfbcbc-f5cc-451f-88d7-3c7fd16f4aff.jpg)</h4>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdhsnzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdhsnzadeh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmdhsnzadeh" alt="ahmdhsnzadeh" /></a> </p>
