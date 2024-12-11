@@ -1,36 +1,75 @@
 <h1 align="center">👋 Hi, I'm Ahmad Hasanzadeh</h1>
-<h3 align="center">Frontend Developer | Passionate About Creating Beautiful Web Experiences</h3>
+<h3 align="center">Frontend Developer | Building Interactive and Scalable Web Experiences</h3>
+
+<p align="center">
+  <a href="https://ahmdhasanzadeh.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:ahmdhasanzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/ahmd-hasanzadeh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-🌐 [Portfolio](https://ahmdhasanzadeh.com/) | 📄 [Resume](https://ahmdhasanzadeh.com/) | 📫 **ahmdhasanzadeh@gmail.com**
+## 🚀 About Me
+- 💻 I specialize in **React**, **Next.js**, **TypeScript**, and other modern web technologies.
+- 🌍 Based in **Tehran**, building scalable, performant, and user-friendly applications.
+- 🏆 Proud creator of projects like:
+  - **Restaurant Management Panel**
+  - **E-commerce Websites**
+  - **Copy-Trade Platform** *(My personal project!)*
+- 🌱 Currently exploring **serverless architecture** and **AI-driven web apps**.
 
 ---
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmd-hasanzadeh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmdhasanzadeh)
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Shadcn-%23007ACC.svg?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn">
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-%23007ACC.svg?style=for-the-badge&logo=shadcn&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 📊 Stats
+## 📈 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmdhsnzadeh&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdhsnzadeh&layout=compact&theme=radical" alt="Top Languages" height="150">
 </div>
+
+---
+
+## 🌟 Featured Projects
+### [Copy-Trade Platform](https://ahmdhasanzadeh.com/)
+- A platform for copying trading strategies from Binance, BingX, and OKEx.
+- Built with **Next.js**, **TypeScript**, **React Query**, and **Tailwind CSS**.
+
+### [Restaurant Management Panel](https://ahmdhasanzadeh.com/)
+- A robust tool for managing restaurant operations.
+- Features **real-time analytics** and **inventory tracking**.
+
+### [E-commerce Websites](https://ahmdhasanzadeh.com/)
+- High-performance online stores with modern UI and seamless shopping experiences.
+
+---
+
+## 💡 Hobbies & Interests
+- ⚽ **Football** enthusiast: playing and watching the game.
+- 🌱 Enjoys nature and hiking.
+- 📖 Avid learner of cutting-edge web technologies.
+
+---
+
+## 📬 Let's Connect
+<p align="center">
+  <a href="mailto:ahmdhasanzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/ahmd-hasanzadeh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/ahmdhasanzadeh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
