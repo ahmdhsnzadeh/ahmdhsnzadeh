@@ -12,10 +12,6 @@
 ## 🚀 About Me
 - 💻 I specialize in **React**, **Next.js**, **TypeScript**, and other modern web technologies.
 - 🌍 Based in **Tehran**, building scalable, performant, and user-friendly applications.
-- 🏆 Proud creator of projects like:
-  - **Restaurant Management Panel**
-  - **E-commerce Websites**
-  - **Copy-Trade Platform** *(My personal project!)*
 - 🌱 Currently exploring **serverless architecture** and **AI-driven web apps**.
 
 ---
@@ -46,17 +42,15 @@
 
 ---
 
-## 🌟 Featured Projects
-### [Copy-Trade Platform](https://ahmdhasanzadeh.com/)
-- A platform for copying trading strategies from Binance, BingX, and OKEx.
-- Built with **Next.js**, **TypeScript**, **React Query**, and **Tailwind CSS**.
-
-### [Restaurant Management Panel](https://ahmdhasanzadeh.com/)
-- A robust tool for managing restaurant operations.
-- Features **real-time analytics** and **inventory tracking**.
-
-### [E-commerce Websites](https://ahmdhasanzadeh.com/)
-- High-performance online stores with modern UI and seamless shopping experiences.
+## 📚 Learning & Goals
+- 🌐 **Learning:**
+  - Improving **backend skills** with Node.js and serverless technologies.
+  - Mastering advanced **TypeScript patterns** for scalable projects.
+  - Experimenting with **GraphQL** and modern APIs.
+- 🚀 **Goals:**
+  - Launch an open-source project in **web performance optimization**.
+  - Contribute to the **React** or **Next.js** ecosystem.
+  - Build a full-stack SaaS product.
 
 ---
 
