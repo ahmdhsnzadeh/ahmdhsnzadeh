@@ -34,14 +34,6 @@
 
 ---
 
-## 📈 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmdhsnzadeh&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdhsnzadeh&layout=compact&theme=radical" alt="Top Languages" height="150">
-</div>
-
----
-
 ## 📚 Learning & Goals
 - 🌐 **Learning:**
   - Improving **backend skills** with Node.js and serverless technologies.
